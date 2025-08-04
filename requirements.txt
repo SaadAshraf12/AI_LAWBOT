@@ -1,0 +1,13 @@
+python-dotenv
+requests
+beautifulsoup4
+fpdf
+PyMuPDF
+pygame
+sounddevice
+scipy
+deepgram-sdk
+langchain
+openai
+tiktoken
+faiss-cpu
